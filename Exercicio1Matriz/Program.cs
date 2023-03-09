@@ -1,4 +1,4 @@
-﻿using System.Globalization;
+﻿
 internal class Program
 {
     private static void Main(string[] args)
